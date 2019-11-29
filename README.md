@@ -1,4 +1,4 @@
-# Yandex_Practicum-Data-Analyst
+# Practicum by Yandex — Data Analyst Specialization
 Проекты по образовательному курсу Яндекс.Практикума по специальности "Аналитик данных".
 
 1. Предобработка данных (Research of Borrowers' Reliability)
